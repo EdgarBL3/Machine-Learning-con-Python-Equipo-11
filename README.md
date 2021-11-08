@@ -13,4 +13,4 @@
     - [Dataset de historial clínico de pacientes con enfermedades cardiovasculares](https://github.com/EdgarBL3/Machine-Learning-con-Python-Equipo-11/blob/main/heart_failure_clinical_records_dataset.csv)
 - [Notebook](https://github.com/EdgarBL3/Machine-Learning-con-Python-Equipo-11/blob/main/Machine_Learning_con_Python.ipynb)
 - [Presentación](https://docs.google.com/presentation/d/1cSq550wRjfTa5mIM1vFm7wNdqJzoByrB/edit?usp=sharing&ouid=111778429343517814223&rtpof=true&sd=true)
-- [Video]()
+- [Video](https://drive.google.com/drive/folders/1yw-S326gNkgBgFMG9cDxoPgn_OdLoGB_?usp=sharing)
